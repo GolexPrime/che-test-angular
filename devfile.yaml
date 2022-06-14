@@ -4,7 +4,7 @@ metadata:
   displayName: Angular
   icon: https://raw.githubusercontent.com/devfile-samples/devfile-stack-icons/main/angular.svg
   language: typescript
-  name: nodejs-angular
+  name: nodejs-angular-2
   projectType: angular
   tags:
     - NodeJS
